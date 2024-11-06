@@ -11,15 +11,15 @@
 #
 
 
-candies = [2, 3, 5, 1, 3]
-extraCandies = 3
-
-maxi = max(candies)  # 5
-disk = []
-for i in candies:
-    a = i + extraCandies
-    if a >= maxi:
-        disk.append(True)
-    else:
-        disk.append(False)
-print(disk)
+# candies = [2, 3, 5, 1, 3]
+# extraCandies = 3
+#
+# maxi = max(candies)  # 5
+# disk = []
+# for i in candies:
+#     a = i + extraCandies
+#     if a >= maxi:
+#         disk.append(True)
+#     else:
+#         disk.append(False)
+# print(disk)
