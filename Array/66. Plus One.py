@@ -1,4 +1,4 @@
-digits = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+digits = [1, 2, 20]
 
 for i in range(len(digits) - 1, -1, -1):
     if digits[i] < 9:
